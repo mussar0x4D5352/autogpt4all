@@ -14,8 +14,10 @@ AutoGPT4All is a simple bash script that sets up and configures [AutoGPT](https:
 
 ## 🚀 Quickstart
 
+This is my locally hosted version for safekeeping, and won't be tracked 1:1 with the source branch.
+
 ```bash
-git clone https://github.com/aorumbayev/autogpt4all.git && cd autogpt4all && chmod +x autogtp4all.sh && ./autogtp4all.sh
+git clone https://github.com/mussar0x4D5352/autogpt4all.git && cd autogpt4all && chmod +x autogtp4all.sh && ./autogtp4all.sh
 ```
 
 > ❗️ Please note this script has been primarily tested on MacOS with an M1 processor. It should work on Linux and Windows, but it has not been thoroughly tested on these platforms. If not on MacOS install git, goland and make before running the script
